@@ -1,0 +1,9 @@
+srm\curd\dao\StudentDAOImpl.class
+srm\curd\interceptor\StudentBeforeAdvice.class
+srm\curd\controller\StudentController.class
+srm\curd\model\Student.class
+srm\curd\service\StudentService.class
+srm\curd\interceptor\StudentAroundAdvice.class
+srm\curd\dao\StudentDAO.class
+srm\curd\interceptor\StudentAfterAdvice.class
+srm\curd\service\StudentServiceImpl.class
